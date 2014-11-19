@@ -1,4 +1,4 @@
 ospitala
 ========
 
-Ospitala, zita bajan eman
+Ospitala, zita bajan eman.
